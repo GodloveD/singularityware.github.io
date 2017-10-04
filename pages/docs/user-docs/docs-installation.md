@@ -1,6 +1,6 @@
 ---
-title: Quick Start
-sidebar: user_docs
+title: Installation
+sidebar: user_doc
 permalink: docs-installation
 folder: docs
 ---
